@@ -76,4 +76,3 @@ Queries = SET(5,7) SET (4,6) SET (3,5) SET (2,4) SET (1,3) GET(1) GET (2) GET (3
 
 
 Структура проекта: array.cpp, stack.cpp, hash_table.cpp, set.cpp, lfu.cpp, tree.cpp - cpp файлы структур на C++; array.h, stack.h, hash_table.h, set.h, lfu.h, tree.h - header файлы структур на C++; tasks.cpp и tasks.h - cpp и header файлы с выполнением всех заданий на C++; main.cpp - основной файл проекта на C++;
-array.go, stack.go, hash_table.go, set.go, lfu.go, tree.go - файлы структур на Go; tasks.go - файл с выполнением всех заданий на Go; main.go - основной файл проекта на Go;
